@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<text>
+  <extraction>
+    <rectangle id="1" Name="English" width="160"  height="72" borderleft="5" borderTop="60" bordertable="0" irowCount="10" icolCount="3">
+      <node value="Father's Name" replace="~Father" newlinebefore="false" newlineafter="false" />
+      <node value="Husband's Name" replace="~Husband" newlinebefore="false" newlineafter="false" />
+      <node value="House No" replace="~HNO" newlinebefore="false" newlineafter="false" />
+      <node value="Age" replace="~Age" newlinebefore="false" newlineafter="false" />
+      <node value="Sex: Female" replace="~Gender:F" newlinebefore="true" newlineafter="false" />
+      <node value="Sex: Male" replace="~Gender:M" newlinebefore="true" newlineafter="false" />
+      <node value="Elector's Name" replace="~VName" newlinebefore="true" newlineafter="false" />
+    </rectangle>
+    <rectangle id="2" Name="Gujarati" width="122"  height="57" borderleft="50" borderTop="100" bordertable="0" irowCount="12" icolCount="4">
+      <node value="પિતન ંુ નામ" replace="~Husband" newlinebefore="false" newlineafter="false" />
+      <node value="િપતાન ંુ નામ" replace="~Father" newlinebefore="false" newlineafter="false" />
+      <node value="ઘર નબંર" replace="~HNO" newlinebefore="false" newlineafter="false" />
+      <node value="ઉંમર" replace="~Age" newlinebefore="false" newlineafter="false" />
+      <node value="Әમર" replace="~Age" newlinebefore="false" newlineafter="false" />
+      <node value="જાિત : 􀄘ી" replace="~Gender:F" newlinebefore="true" newlineafter="false" />
+      <node value="Ĥિત : Ęી" replace="~Gender:F" newlinebefore="true" newlineafter="false" />
+      <node value="જાિત : પĮુષ" replace="~Gender:M" newlinebefore="true" newlineafter="false" />
+      <node value="Ĥિત : પĮુષ" replace="~Gender:M" newlinebefore="true" newlineafter="false" />
+      <node value="નામ" replace="~VName" newlinebefore="true" newlineafter="false" />
+    </rectangle>
+  </extraction>
+</text>
